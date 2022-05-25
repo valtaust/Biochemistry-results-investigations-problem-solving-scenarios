@@ -1,0 +1,34 @@
+A clinician phones adamant that the sodium for a patient is off and is too low, 
+next steps, go about it if the sodium was too low?
+Check the specimen quality and re-run it.
+Check previous sodium results for that patient 
+
+Check patient category and tandem analytes like K+, Cl-, 
+bicarb HCO3-, creatinine/urea.
+
+Could have said check their calcium because that shows if there is 
+anticoagulant present from an IV drip. Also, if renal dialysis patient.
+Fill out a result amendment form if there is a mistake.
+
+-Assuming it’s not contaminated, run the sample with a direct method like a 
+blood gas analyser as the results on general chemistry analysers are affected 
+by abnormally high or low total protein due to onboard dilutions. 
+Would be good to do a measured osmo as well to confirm the blood gas results.
+
+A high protein content will result in a falsely low sodium. 
+A low protein will result in a falsely high sodium. 
+This is something the Siemens Atellica suffers from a lot.
+My textbook by William Marshall said exactly this. Lipaemia and 
+then a dilution can interfere with a sodium.
+Elevated glucose may cause a pseudohyponatraemia. 
+Run the osmo to confirm and get accurate in-vitro result.
+
+High triglycerides can cause pseudohyponatremia in indirect measurement assays 
+particularly (indirect ISE is when the sample is diluted before analysis 
+which is common in the large chem analyzers). 
+In addition to the things you already mentioned, you can also 
+try running the sample with another method if available, 
+like a blood gas analyzer which is probably direct ISE. 
+You can also look at analyzer issues (QC, cal, any peer data available). 
+Also, don't forget the redraw to check results. 
+
